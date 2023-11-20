@@ -6,6 +6,10 @@
 
 📖 Overview
 
-Medical AGI stands as a virtual hospital environment that operates through various intelligent agents holding different roles, including  Triage Nurses, Nursing staff, Medical students, interns, residents, consultants, hospital administration, allied health staffs, pharmaceutical and medical device staff, repair staff and security . These agents form a multi-agent organizational structure and are united by a mission to "revolutionize the digital healthcare through diagnosis and management." The agents within MedicalAGI collaborate by participating in specialized functional seminars, including tasks such as triaging, Outpatients, Inpatients, Diagnosis, Treatments and documenting.
+Medical AGI stands as a virtual hospital environment and medical software development company that operates through various intelligent agents holding different roles, including  Triage Nurses, Nursing staff, Medical students, interns, residents, consultants, hospital administration, allied health staffs, pharmaceutical staff, medical device staff, repair staff, security, also including Chief Executive Officer , Chief Product Officer , Chief Technology Officer , programmer , reviewer , tester , art designer  . 
 
-The primary objective of MedicalAGI is to offer an easy-to-use, highly customizable and extendable framework, which is based on large language models (LLMs) , Computer Vision Models and serves as an ideal scenario for studying collective Medical intelligence.
+These agents form a multi-agent organizational structure and are united by a mission to "revolutionize the digital healthcare through diagnosis and management." The agents within MedicalAGI collaborate by participating in specialized functional seminars, including tasks such as triaging, Outpatients, Inpatients, Diagnosis, Treatments, designing, coding, testing and documenting.
+
+The primary objective of MedicalAGI is to offer an easy-to-use, highly customizable and extendable framework, which is based on large language models (LLMs) , Computer Vision Models and serves as an ideal scenario for studying and creating collective Medical intelligence.
+
+![image](https://github.com/LifestyleCorp/Medical-AGI/assets/79331747/28959c7e-55fb-4a0e-b9ad-d9e5ee4af5b0)
