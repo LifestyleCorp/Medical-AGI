@@ -28,11 +28,11 @@ The primary mission of MedicalAGI is to revolutionize the digital healthcare lan
 
 ## Getting Started
 
-If you want to contribute or try out the MedicalAGI framework, follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+If you want to contribute or try out the MedicalAGI framework, follow the steps in the [Contribution.md](Contribution.md) file.
 
 ## How to Contribute
 
-We welcome contributions from the community! Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to the project.
+We welcome contributions from the community! Check out the [Contribution.md](Contribution.md) file for guidelines on how to contribute to the project.
 
 ## License
 
