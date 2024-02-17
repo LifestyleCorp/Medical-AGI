@@ -122,6 +122,15 @@ li {
   box-sizing: border-box;
   border-radius: 25px;
   text-align: left; /* Aligns text to the left */
+  position: relative; /* Allows absolute positioning inside */
+}
+
+.box-img {
+  position: absolute;
+  top: 20px; /* Adjust as needed */
+  left: 20px; /* Adjust as needed */
+  width: 100px; /* Adjust as needed */
+  height: auto; /* Adjust to maintain aspect ratio */
 }
 
 h2, p {
