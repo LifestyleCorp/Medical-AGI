@@ -1,0 +1,130 @@
+body {
+    transform: scale(0.65);
+    transform-origin: top left;
+    width: 153.846%; /* (1 / 0.75) = 133.33% to maintain original content size */
+    margin: 0;
+    font-family: 'Fira Code';
+    color: white;
+    background: #262420;
+    overflow-x: hidden;
+}
+        
+h1 {
+  font-size: 4rem;
+  text-align: center; /* Center align the heading */
+  max-width: 800px; /* Limit the maximum width of the heading */
+  margin: 0 auto; /* Center the heading horizontally */
+  max-width: 100%;
+  color: #FFFFFF;
+  font-family: 'Fira Code';
+}
+
+h2 {
+    font-size: 4rem;
+    max-width: 800px; /* Limit the maximum width of the heading */
+    margin: 0 auto; /* Center the heading horizontally */
+    max-width: 100%;
+    color: #FFFFFF;
+    font-family: 'Fira Code';
+  }
+
+h3 {
+    font-size: 4rem;
+    text-align: center; /* Center align the heading */
+    max-width: 800px; /* Limit the maximum width of the heading */
+    margin: 0 auto; /* Center the heading horizontally */
+    max-width: 100%;
+    color: #FFFFFF;
+    font-family: 'Fira Code';
+  }
+
+p {
+  font-size: 1.5rem;
+  text-align: left; /* Center align the paragraphs */
+  max-width: 1200px; /* Limit the maximum width of the paragraphs */
+  margin: 0 auto; /* Center the paragraphs horizontally */
+}
+
+header {
+  background-color: #FFFFFF;
+  padding: 10px;
+  color: #fff;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+li {
+  display: inline;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.Email-rec {
+  width: 1150px; /* Set the width */
+  height: 100px; /* Set the height */
+  border: 5px solid #357413; /* 5px stroke in #357413 color */
+  background-color: transparent; /* No fill */
+  align-self: center;
+  border-radius: 25px;
+  transform: translate(50%, 50%); /* Adjust the position to truly center */
+}
+
+#demoButton {
+  border-radius: 0px 20px 20px 0px; /* Rounded corners */
+  background-color: #00FF0A; /* Green background */
+  color: #000; /* Text color, assuming black for visibility */
+  height: 100px;
+  width: 370px;
+  font-size: 20px; /* Adjust as needed for text to fit nicely */
+  border: none; /* Remove default border */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  transform: translate(369%, -50%); /* Adjust the position to truly center */
+  font-family: 'Fira Code';
+  font-weight: bold;
+  letter-spacing: -2px;
+  font-size: 27px;
+}
+
+#spacedTable {
+  border-collapse: separate; /* Necessary for border-spacing to work */
+  border-spacing: 50px 2px; /* First value is horizontal spacing, second value is vertical spacing */
+  width: auto; /* Adjusted to auto to accommodate wider cells; you might specify a more precise width */
+  margin-left: 400px; /* Centers the table horizontally */
+}
+
+#spacedTable td {
+  padding: 2px; /* Adds some padding inside cells for content */
+  width: 350 px; /* Directly set the width of cells; adjust as needed for your design */
+  /* Remove max-width or adjust accordingly */
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.greyboxcontainer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 70px;
+}
+
+.greybox {
+  background-color: #414141;
+  color: white;
+  width: 650px;
+  height: 500px;
+  margin: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 25px;
+  text-align: left; /* Aligns text to the left */
+}
+
+h2, p {
+  margin: 0;
+  padding: 10px 0;
+}
