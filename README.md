@@ -3,7 +3,7 @@
 The project is currently in the draft phase. Here's what we're working on:
 
 - Setting up the world 🌍
-- Setting the NPCs 🧑‍⚕️
+- Setting the AI powered NPCs 🧑‍⚕️
 - Setting the game flow 🎮
 
 
@@ -11,7 +11,11 @@ The project is currently in the draft phase. Here's what we're working on:
 
 Welcome to the MedicalAGI repository! This project is currently in its draft phase. We aim to create a virtual hospital environment and medical software development framework using intelligent agents.
 
+2D pixelart inspired by POKEMON
 ![image](https://github.com/LifestyleCorp/Medical-AGI/assets/79331747/8e0666c0-331f-4ca3-b1ae-05f5293b5b09)
+
+SCREENSHOTS FROM PROJECT HOSPITAL GAME
+![image](download-_7_.jpg)
 
 ## 🏥 Project Overview
 
@@ -19,13 +23,17 @@ MedicalAGI operates through various intelligent agents, each holding specific ro
 
 The primary mission of MedicalAGI is to revolutionize the digital healthcare landscape through advanced diagnosis and management. The intelligent agents collaborate through specialized functional seminars, covering tasks such as triaging, Outpatients, Inpatients, Diagnosis, Treatments, designing, coding, testing, and documenting.
 
+INTERNAL MEDICINE OUTPATIENT CLINIC
+![image](ss_53d51fa45df80cfe7b1549c95355961979554b3b.1920x1080.jpg)
+
+INTERACTION INSPIRED BY CHATDEV
 ![image](https://github.com/LifestyleCorp/Medical-AGI/assets/79331747/28959c7e-55fb-4a0e-b9ad-d9e5ee4af5b0)
 
 
 ## 🎯 Objectives
 
-- Provide an easy-to-use, highly customizable, and extendable framework.
-- Incorporate large language models (LLMs) and Computer Vision Models.
+- Provide an easy-to-use, highly customizable, and extendable framework of Fully Automated Hospital.
+- Incorporate large language models (LLMs), 3D Healthcare Digital Twin and Computer Vision Models.
 - Facilitate the study and creation of collective Medical intelligence.
 
 ## 📂 Project Structure
@@ -34,6 +42,64 @@ The primary mission of MedicalAGI is to revolutionize the digital healthcare lan
 - **code/**: Holds the codebase, organized by functionalities and roles.
 - **documentation/**: Stores project documentation, guidelines, and resources.
 - **resources/**: Additional assets, datasets, or materials used by the project.
+
+## 📂 Project Components
+
+- **Internal Medicine/**: Contains subdirectories for each intelligent agent role.
+- **General Surgery/**: Holds the codebase, organized by functionalities and roles.
+- **Emergency Medicine/**: Stores project documentation, guidelines, and resources.
+- **Orthopedics/**: Additional assets, datasets, or materials used by the project.
+- **Cardiology/**: Contains subdirectories for each intelligent agent role.
+- **Neurology/**: Holds the codebase, organized by functionalities and roles.
+- **GastroEnterology/**: Holds the codebase, organized by functionalities and roles.
+- **Hepatology/**: Holds the codebase, organized by functionalities and roles.
+- **Haematology/**: Holds the codebase, organized by functionalities and roles.
+- **Pediatrics/**: Stores project documentation, guidelines, and resources.
+- **Ophthalmology/**: Additional assets, datasets, or materials used by the project.
+- **ENT/**: Contains subdirectories for each intelligent agent role.
+- **PSM/**: Holds the codebase, organized by functionalities and roles.
+- **Epidemiology/**: Stores project documentation, guidelines, and resources.
+- **Psychiatry/**: Additional assets, datasets, or materials used by the project.
+- **Obstetrics/**: Additional assets, datasets, or materials used by the project.
+- **Gynecology/**: Contains subdirectories for each intelligent agent role.
+- **Sexual Health/**: Holds the codebase, organized by functionalities and roles.
+- **Plastic Surgery/**: Stores project documentation, guidelines, and resources.
+- **Oncology/**: Contains subdirectories for each intelligent agent role.
+- **Nephrology/**: Contains subdirectories for each intelligent agent role.
+- **Urology/**: Contains subdirectories for each intelligent agent role.
+- **Pathology/**: Additional assets, datasets, or materials used by the project.
+- **Forensic Medicine/**: Contains subdirectories for each intelligent agent role.
+- **Microbiology/**: Additional assets, datasets, or materials used by the project.
+- **Anesthesiology/**: Additional assets, datasets, or materials used by the project.
+- **Radiology/**: Contains subdirectories for each intelligent agent role.
+- **Genetics/**: Additional assets, datasets, or materials used by the project.
+- **Biostatistics/**: Additional assets, datasets, or materials used by the project.
+- **Nursing Department/**: Additional assets, datasets, or materials used by the project.
+- **Critical Care Medicine/**: Contains subdirectories for each intelligent agent role.
+- **Infectious Disease/**: Contains subdirectories for each intelligent agent role.
+- **Traumatology/**: Contains subdirectories for each intelligent agent role.
+- **Geriatrics/**: Holds the codebase, organized by functionalities and roles.
+- **Anatomy/**: Contains subdirectories for each intelligent agent role.
+- **Physiology/**: Contains subdirectories for each intelligent agent role.
+- **Biochemistry/**: Contains subdirectories for each intelligent agent role.
+- **Pharmacology/**: Contains subdirectories for each intelligent agent role.
+- **Electronic Health Records/**: Contains subdirectories for each Records, Medical Coding, Disease Classification, Medical Ontology-Concepts.
+- **Architecture and Health Design/**: Contains subdirectories for each intelligent agent role.
+- **Medical Device/**: Holds the codebase, organized by functionalities and roles.
+- **Paramedical Department/**: Holds the codebase, organized by functionalities and roles.
+- **Housekeeping and Sterilization/**: Holds the codebase, organized by functionalities and roles.
+- **Nutrition- Dietitics/**: Holds the codebase, organized by functionalities and roles.
+- **Biomedical Engineering/**: Holds the codebase, organized by functionalities and roles.
+- **Healthcare IT/**: Holds the codebase, organized by functionalities and roles.
+- **Healthcare Economics/**: Holds the codebase, organized by functionalities and roles.
+- **Hospital Administration/**: Holds the codebase, organized by functionalities and roles.
+- **Research and Development/**: Holds the codebase, organized by functionalities and roles.
+- **Big Pharma/**: Holds the codebase, organized by functionalities and roles.
+- **Self Driving Ambulance/**: Holds the codebase, organized by functionalities and roles.
+- **Self Flying Air Ambulance/**: Holds the codebase, organized by functionalities and roles.
+- **Screen UX-UI Automation/**: Holds the codebase, organized by functionalities and roles.
+
+
 
 ## 🚀 Getting Started
 
