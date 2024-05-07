@@ -128,5 +128,13 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expectat
 
 For questions or discussions, feel free to reach out to [Your Contact Information].
 
+## ✨️ Advanced Skills
+For more detailed information, please refer to our Wiki, where you can find
+
+## 👨‍💻‍ Contributors
+Dr.Rahul Jaic Sam
+SuperMaligne
+LifestyleCorp AI research Lab
+
 Happy coding!
 
