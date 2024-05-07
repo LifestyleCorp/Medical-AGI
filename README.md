@@ -104,6 +104,8 @@ INTERACTION INSPIRED BY CHATDEV
 ## Project outcome
 - Its made to surface the underlying meta-language of medicine and healthcare through concept building the unchartered language of biosemiotics especially in humans. 
 - Automation of every aspect of healthcare to precipitate new knowledge, concept and cures through ongoing recursive reiteration of software on real world patients and humans
+- The surface knowledge generating software is meant to be run parallely in many servers across the world connected to each other through cloud- to complete the human medical knowledge
+- This completed medical knowledge can be used to cure mortality
 
 ## 🚀 Getting Started
 
