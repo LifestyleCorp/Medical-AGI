@@ -106,6 +106,10 @@ INTERACTION OF MULTIAGENTS AS A GUIDED FRAMEWORK
 - **Self Flying Air Ambulance/**: Holds the codebase, organized by functionalities and roles.
 - **Screen UX-UI Automation/**: Holds the codebase, organized by functionalities and roles.
 
+## Project graphics
+- 2d tile generator: https://www.mapeditor.org/
+- Game framework : https://phaser.io/
+
 ## Project outcome
 - Its made to surface the underlying meta-language of medicine and healthcare through concept building the unchartered language of biosemiotics especially in humans. 
 - Automation of every aspect of healthcare to precipitate new knowledge, concept and cures through ongoing recursive reiteration of software on real world patients and humans
